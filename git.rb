@@ -1,1 +1,6 @@
 puts "Coding is fun!!!!!!!"
+puts "I feel tired because school starts too early!!!:{"
+puts "I feel like I will be brain dead by the end of school."
+puts "I feel happy."
+puts "I feel sad."
+puts "I feel bipolar."
