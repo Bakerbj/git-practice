@@ -18,3 +18,7 @@ Three step commit process
 -------------------------
 
 * Make saved, tested changes to my code, (usually) get it completely working
+* Add any changed files to the stage
+    git add filename.rb
+* Commit the staged files
+    git commit -m "Descriptive commit message to myself and other"
