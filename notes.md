@@ -22,3 +22,16 @@ Three step commit process
     git add filename.rb
 * Commit the staged files
     git commit -m "Descriptive commit message to myself and other"
+
+Pushing code to git
+-------------------
+    git push
+
+When setting up roster for the first time
+-----------------------------------------
+git clone
+
+When pulling a file after using a different computer
+----------------------------------------------------
+
+git pull
