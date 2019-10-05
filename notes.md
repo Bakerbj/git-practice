@@ -29,9 +29,10 @@ Pushing code to git
 
 When setting up roster for the first time
 -----------------------------------------
-git clone
+
+    git clone
 
 When pulling a file after using a different computer
 ----------------------------------------------------
 
-git pull
+    git pull
